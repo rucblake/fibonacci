@@ -1,0 +1,16 @@
+{
+    "name": "rucblake/fibonacci",
+    "description": "fibonacci",
+    "authors": [
+        {
+            "name": "rucblake",
+            "email": "rucywq@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FB\\": "./src/"
+        }
+    }
+}
